@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently intern at [Yucore](https://yucore.co.id/)
 
-- 🌱 I’m currently learning React,Next js,Mongo Db , Express 
+- 🌱 I’m currently learning TypeScript, React,Next js,Mongo Db , Express 
 <br/>
 
 ## My Skill Set
