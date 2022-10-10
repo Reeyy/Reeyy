@@ -31,12 +31,14 @@
 <br/>
 
 ## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=reeyy&theme=radical&hide_border=false&include_all_commits=true&count_private=true" align="left" />
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeyy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compac" align="center" /></div>
-
 <br/>  
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reeyy&show_icons=true&locale=en&layout=compact" alt="reeyy" /></p>
+<br/>  
+<div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reeyy&show_icons=true&locale=en" alt="reeyy" /></p>
+
+
 
 
 <br/>
