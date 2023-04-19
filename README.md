@@ -2,10 +2,7 @@
 <img src="https://wallpapercave.com/uwp/uwp2649768.gif" align="center" style="width: 100%" />
 </div>  
 
-
 ### <div align="center">Hi There 😃</div>
-
-- 🔭 I’m currently intern at [Yucore](https://yucore.co.id/)
 
 - 🌱 I’m currently learning TypeScript, React,Next js,Mongo Db And Nodejs ( Express )
 <br/>
